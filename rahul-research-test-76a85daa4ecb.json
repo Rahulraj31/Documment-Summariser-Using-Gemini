@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rahul-research-test",
+  "private_key_id": "76a85daa4ecbeadb79fcd1dae7b478c31461d1fd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIOiog4e6SwbQQ\nX8Yg46uSW7RwvCjovn9SDIg0XRmP9uajZD+ZWV9kqlQsvz02VIh0QV6eeB39wWmG\nZXTDuVZHILlCs9xOdce/CU9nnj+tEJEk66MLxlWZzAU+xHpdtKWqqE6sXkrF54Uh\nm23vIoJvYg82cb1AjVUxUpeTJ2xRE+EUs2NvJ9z9Hqc7TqtjkMlPri9bdI8tr2k/\npFCEQnEC8ywT12MITIUUzRCgKHgLy4pAOXgPZSlWOtLjR6dFRLfDObyp0ZVjdR0B\nj7aasmvN9LSP+GSKCpQHUk7dbIXD2GVy5F1Wcn9zrEOG+BakBlcZhpPROp1iEflX\nhqBvYb+JAgMBAAECggEAKHk1bdstrgWwv8SUWK6czmNyKH2oaU+kjfHRkIAnPCYk\n/e80OevKcB9MD5WCqppQ0Osr1K2kJliz24JjpXKv4YXYXQbdaBC/1TptDh17cqDQ\nLh3hoe4v/Hw0rTjrIUj0WfhWmtoelD2V+DKieL3JjvlL6O352vQWvfcbg5fq+cJG\nzyb41q7SgmMv5lOBLj/S8PElijG2WVoZCtcLaIwduXXa7VdIvbYrZBBMd16zhSWx\n5aE5uZXIR5qBd30ziDSw+B1Htjtz4Nzw/52Q1w/iQ1KP6/izZfH61itwUciwuCPf\nXBHt1UKDdxBLQUQNgU1XTqFWhI3jmXezs1dNOpVl3wKBgQDt54byA0oe6w0v+VbA\nCT4VVwNr74BAW84m7TKflHtaLnyt/gzOQyC2DK6TFf4pTErr8yFFL8+/I6xKZYKE\nVfVSO18jRxx9Pn4d9PyiKGDqgsKfQqHFEMqkdC1ZHmVIBj/jqWHDetom3fYfGXYO\nMenOOnfsaei/XVqsiscyWlvC2wKBgQDXdPzAJ9dXpa77sANZfzuJ/l21KdJEYigs\nCFVWY++qSIYPfN+OYjF6e6L/SkaK7VrlcoOMb5u3moQ7XiH9Y6h1mkjZJW0yHDvS\no/rfQPCxdLBB1aQCkPuDKXklm8LVLfchAILw6RsXMIYf6hOlk0P0Tk4VWhMgq8n5\nSd+LulxKawKBgEqn+0r7CUmGjY7eegCtZdQgiCxY7jBEHv9MNDSrzcHREMMxFCeu\nHRfEBwyVPDsNe/1rQKeLh2/969U04a5Rozh49TQG3sPW1pDkDlt8vF0bR6PerxE+\nYbkV1B1BUps1itsQjmNfrBHCWbgMr2Vo+GwFIRkJa0aSLyAyNKxyepU9AoGBAK63\nrpLAfC8WK2zsUfsMYyLHBAR6Eonjs0HpzBIPXnWO9C+xCrSyyf7SLd6pw8S7L5+r\nGiQTCYp9Icfm0NdjLmOXpoV4hTFClfx9f131knnE732jmql+GodFZXlq8zbeXG4F\ntSlZTt+iONG+hwoY/t0pdsZ30dUHmfSuxDnR+S9bAoGBAOBkP+ggq+BMc4t+ZhNb\nXf57h/udP3ixKtAukFre5QRty7osjl5nXC0ev0bK24k13tMcl3VAw0W6750OOuiz\noMReTbdk8mtrBbt83KzLrelnFD6qLHWYlRFTrrhrtJ/jFztznvlwen3ikBf9Tn46\nBsZAuo9o2t8X6eN/E9pNZMXf\n-----END PRIVATE KEY-----\n",
+  "client_email": "demo-vertexai@rahul-research-test.iam.gserviceaccount.com",
+  "client_id": "100933732173907334704",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demo-vertexai%40rahul-research-test.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

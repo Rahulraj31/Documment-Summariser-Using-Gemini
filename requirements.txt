@@ -1,0 +1,8 @@
+pathlib
+google-cloud-aiplatform 
+PyPDF2 
+ratelimit 
+backoff 
+streamlit
+logging
+stqdm 
